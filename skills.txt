@@ -1,0 +1,69 @@
+Python
+Java
+JavaScript
+C
+C++
+C#
+R
+Ruby
+Rust
+Kotlin
+Swift
+Flutter
+Dart
+Go
+Perl
+Assembly
+PHP
+Lua
+TypeScript
+MATLAB
+SAS
+Scala
+Julia
+Objective-C
+Ada
+Visual Basic
+HTML
+CSS
+Git
+GitHub
+Docker
+SQL
+PostgreSQL
+MySQL
+MongoDB
+AWS
+Azure
+React
+React Native
+Node.js
+Angular
+Flask
+Tailwind
+Bootstrap
+PowerShell
+Bash
+Linux
+Unix
+OCaml
+Tableau
+Jupyter
+Jira
+Unity
+Unreal Engine
+Godot
+Machine Learning
+Object-Oriented Programming
+Data Structures
+Algorithms
+DevOps
+Google Cloud Platform
+Kubernetes
+REST API
+API
+Figma
+Agile
+Pandas
+Matplotlib
+PyTorch
